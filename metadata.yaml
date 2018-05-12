@@ -1,0 +1,46 @@
+_repo: With-the-World-s-Great-Travellers-Volume-2_33472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+description: ''
+gutenberg_issued: '2010-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+tableOfContents: New York, Washington, Chicago / Oliver H. G. Leigh -- Winnipeg Lake
+  and River / W. F. Butler -- A Fine Scenic Route / Henry T. Finck -- South Pass and
+  Fremont's Park / John C. Fremont -- In the Yellowstone Park / Ferdinand V. Hayden
+  -- The Country of the Cliff-Dwellers / Alfred Terry Bacon -- Lake Tahoe and the
+  Big Trees / A. H. Tevis -- The Chinese Quarter in San Francisco / Helen Hunt Jackson
+  -- Mariposa Grove and Yosemite Valley / Charles Loring Brace -- A Sportsman's Experience
+  in Mexico / Sir Rose Lambert Price -- The Scenery of the Mexican Lowlands / Felix
+  L. Oswald -- Among the Ruins of Yucatan / John L. Stephens -- The Route of the Nicaragua
+  Canal / Julius Froebel -- The Destruction of San Salvador / Carl Scherzer -- Scenes
+  in Trinidad and Jamaica / James Anthony Froude -- The High Woods of Trinidad / Charles
+  Kingsley -- Animals of British Guiana / C. Barrington Brown -- Life and Scenery
+  in Venezuela / Alexander von Humboldt -- The Llaneros of Venezuela / Ramon Paez
+  -- The Forests of the Amazon and Madeira Rivers / Franz Keller -- Canoe- and Camp-Life
+  on the Madeira -- Besieged by Peccaries / James W. Wells -- The Perils of Travel
+  / Ida Pfeiffer -- Brazilian Ants and Monkeys / Henry W. Bates -- The Monarchs of
+  the Andes / James Orton -- Inca High-Roads and Bridges / E. George Squier.
+title: With the World's Great Travellers, Volume 2
+url: http://www.gutenberg.org/ebooks/33472
